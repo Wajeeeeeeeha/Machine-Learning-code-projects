@@ -1,3 +1,3 @@
 # Machine-Learning-code-projects
 
-Here I am adding my all Ml and deep learning project to help others to learn code with fun. 
+Here I am adding my all Machine learning and deep learning projects to help others to learn code with fun. 
